@@ -1,0 +1,22 @@
+{
+  "variables": {
+    "created_at": "2016/02/02",
+    "version": "0.1",
+    "feature": {
+      "server": {
+        "name": "サーバー"
+      },
+      "fw": {
+        "name": "ファイアウォール"
+      },
+      "ha": {
+        "name": "HA"
+      }
+    },
+    "vmware": {
+      "ha": {
+        "name": "VMware HA(High Availability)"
+      }
+    }
+  }
+}
